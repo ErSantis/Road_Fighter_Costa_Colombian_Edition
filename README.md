@@ -8,8 +8,9 @@ The old known 2D Nintendo game but more "la monda"😎, developed in Java and Pr
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93928718/177615005-93e734a1-7d95-4794-85fa-175b638aec7f.gif)
 
-![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/RoadFighter?style=plastic)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amoldalwai/RoadFighter?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/ersantis/Road_Fighter_Costa_Colombian_Edition?style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ersantis/Road_Fighter_Costa_Colombian_Edition
+?style=plastic)
 
 ### Table of Contents  
 [Features](#Features)  
