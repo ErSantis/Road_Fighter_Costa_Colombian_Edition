@@ -21,7 +21,7 @@ The old known 2D Nintendo game but more "la monda"😎, developed in Java and Pr
 ![GameSketch 06_07_2022 12_55_24](https://user-images.githubusercontent.com/93928718/177613400-be00ec68-76ae-462c-b41b-ff1321acf0a8.png)
 
 - Carrera: start the game.
-- Free Race: infinite gamemode
+- Free Race: infinite game mode
 - Garage: choose the color of the car.
 - Opciones: enable or disable music and choose the difficulty of the game.
 - Creditos: display a window showing information about the creators of the game.
