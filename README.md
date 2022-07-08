@@ -20,10 +20,11 @@ The old known 2D Nintendo game but more "la monda"😎, developed in Java and Pr
 
 ![GameSketch 06_07_2022 12_55_24](https://user-images.githubusercontent.com/93928718/177613400-be00ec68-76ae-462c-b41b-ff1321acf0a8.png)
 
-- Race: start the game.
+- Carrera: start the game.
+- Free Race: infinite gamemode
 - Garage: choose the color of the car.
-- Options: enable or disable music and choose the difficulty of the game.
-- Credits: display a window showing information about the creators of the game.
+- Opciones: enable or disable music and choose the difficulty of the game.
+- Creditos: display a window showing information about the creators of the game.
 
 ### Carrera
 
@@ -73,19 +74,19 @@ The main objective of this game mode is to reach the finish line by dodging all 
   Are the cars that appear on the road, which the player must dodge to avoid crashing.
   not to crash.
 
-  <img src="https://user-images.githubusercontent.com/93928718/177904440-2024bed3-7282-4f5f-ac57-4d3b07d8e05c.png" width="400" height="200" />
+  <img src="https://user-images.githubusercontent.com/93928718/177904440-2024bed3-7282-4f5f-ac57-4d3b07d8e05c.png" width="400" height="300" />
   
 * ### Animals
 
   There are a variety of animals along the road that must be collected to earn lives.
   
-  <img src="assets/20220707_213002_image.png" width="400" height="200" />
+  <img src="assets/20220707_213002_image.png" width="400" height="300" /> <img src="https://user-images.githubusercontent.com/93928718/177917120-9a739b9d-f3b4-415b-a24c-eda4c3a9805b.png" width="400" height="300" />
 
 ### Free Race
 
 This is an infinite game mode whose mechanics are similar to those of the career mode with the difference that the objective is not to reach the finish line, but to stay alive as long as possible. The player can choose the scenario of his preference to play.
 
-![image](https://user-images.githubusercontent.com/93928718/177910856-a4cc32e2-0510-44d1-a871-cb985adaa53c.png)
+<img src="https://user-images.githubusercontent.com/93928718/177910856-a4cc32e2-0510-44d1-a871-cb985adaa53c.png" width="600" height="400" />
 
 ### Garage
 
@@ -93,14 +94,13 @@ You can choose the color of your choice for your car.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93928718/177912195-e266a386-556f-43b9-abe1-2d0e6006996e.gif)
 
-### Options
+### Opciones
 
 You can enable or disable music and choose the difficulty of the game.
   
 <img src="https://user-images.githubusercontent.com/93928718/177912644-6b75edf7-cef5-49d9-a605-9963b731b9e8.png" width="600" height="400" />
 
 ---
-
 
 
 ![Group 12 (1)](https://user-images.githubusercontent.com/93928718/177915208-e08d89ac-c237-4611-8ada-c9de39f4db63.png)
