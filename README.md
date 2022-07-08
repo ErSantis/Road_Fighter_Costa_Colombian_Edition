@@ -49,20 +49,22 @@ The main objective of this game mode is to reach the finish line by dodging all 
 
   * **Loss of a life**: This occurs when the player collides with an enemy car. This causes the car to reset its position.
 
-    ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93928718/177681098-19732a76-eda2-495b-bc7f-1d3493ea4f97.gif)
+    <img src="https://user-images.githubusercontent.com/93928718/177681098-19732a76-eda2-495b-bc7f-1d3493ea4f97.gif" width="600" height="400" />
     
   * **Increase of one life**: This event will occur every time the player picks up one animal that appear randomly on the road. animals that appear randomly on the road, i.e. if the player has 2 lives and then picks up two animals player has 2 lives and subsequently picks up two animals without colliding with another car, he will then have 3 lives
 
-    ![GameSketch-2022-07-06-12-38-20_Trim](https://user-images.githubusercontent.com/93928718/177901149-f2d7ccec-0307-4f72-9ef1-a2ab92e56d73.gif)
+
+    <img src="https://user-images.githubusercontent.com/93928718/177901149-f2d7ccec-0307-4f72-9ef1-a2ab92e56d73.gif" width="600" height="400" />
+  
   * **End game:** In the costa tour there are two events that cause the game to end.
 
     * When the player runs out of lifes. You can choose reset the game or exit to main screen.
     
-    ![image](https://user-images.githubusercontent.com/93928718/177903390-0b166be1-b77d-4e22-abc9-bd7cde2aba59.png)
-    
+      <img src="https://user-images.githubusercontent.com/93928718/177903390-0b166be1-b77d-4e22-abc9-bd7cde2aba59.png" width="600" height="400" />
+
     * And when the player crosses the finish line. Also you can choose eset the game or exit to main screen.
     
-    ![image](https://user-images.githubusercontent.com/93928718/177902443-58ddf6fe-7471-404a-a803-2dc9c6d1016e.png)
+      <img src="https://user-images.githubusercontent.com/93928718/177902443-58ddf6fe-7471-404a-a803-2dc9c6d1016e.png" width="600" height="400" />
     
   * Game speed increases every 20 seconds. Don't be overconfident.
  
@@ -71,13 +73,13 @@ The main objective of this game mode is to reach the finish line by dodging all 
   Are the cars that appear on the road, which the player must dodge to avoid crashing.
   not to crash.
 
-  ![image](https://user-images.githubusercontent.com/93928718/177904440-2024bed3-7282-4f5f-ac57-4d3b07d8e05c.png)
+  <img src="https://user-images.githubusercontent.com/93928718/177904440-2024bed3-7282-4f5f-ac57-4d3b07d8e05c.png" width="400" height="200" />
   
 * ### Animals
 
   There are a variety of animals along the road that must be collected to earn lives.
-
-  ![](assets/20220707_213002_image.png)
+  
+  <img src="assets/20220707_213002_image.png" width="400" height="200" />
 
 ### Free Race
 
@@ -93,7 +95,9 @@ You can choose the color of your choice for your car.
 
 ### Options
 
-You can enable or disable music and choose the difficulty of the game.![GameSketch 07_07_2022 22_42_07](https://user-images.githubusercontent.com/93928718/177912644-6b75edf7-cef5-49d9-a605-9963b731b9e8.png)
+You can enable or disable music and choose the difficulty of the game.
+  
+<img src="https://user-images.githubusercontent.com/93928718/177912644-6b75edf7-cef5-49d9-a605-9963b731b9e8.png" width="600" height="400" />
 
 ---
 
