@@ -37,32 +37,42 @@ The main objective of this game mode is to reach the finish line by dodging all 
   * ##### Sincelejo
 
     ![image](https://user-images.githubusercontent.com/93928718/177660229-cad704f4-3056-4676-9b16-ef34c0fe1907.png)
+    
   * ##### Cartagena
 
     ![image](https://user-images.githubusercontent.com/93928718/177660411-9e03c59c-d21c-479d-a859-47c318612e44.png)
   * ##### Barranquilla
 
     ![image](https://user-images.githubusercontent.com/93928718/177660623-b850528b-048e-4c0c-a63c-a90f1413276a.png)
+    
 * #### Actions - Event
-
 
   * **Loss of a life**: This occurs when the player collides with an enemy car. This causes the car to reset its position.
 
     ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93928718/177681098-19732a76-eda2-495b-bc7f-1d3493ea4f97.gif)
+    
   * **Increase of one life**: This event will occur every time the player picks up one animal that appear randomly on the road. animals that appear randomly on the road, i.e. if the player has 2 lives and then picks up two animals player has 2 lives and subsequently picks up two animals without colliding with another car, he will then have 3 lives
 
     ![GameSketch-2022-07-06-12-38-20_Trim](https://user-images.githubusercontent.com/93928718/177901149-f2d7ccec-0307-4f72-9ef1-a2ab92e56d73.gif)
   * **End game:** In the costa tour there are two events that cause the game to end.
 
-    * When the player runs out of lifes. You can choose reset the game or exit to main screen.![image](https://user-images.githubusercontent.com/93928718/177903390-0b166be1-b77d-4e22-abc9-bd7cde2aba59.png)
-    * And when the player crosses the finish line. Also you can choose eset the game or exit to main screen.![image](https://user-images.githubusercontent.com/93928718/177902443-58ddf6fe-7471-404a-a803-2dc9c6d1016e.png)
+    * When the player runs out of lifes. You can choose reset the game or exit to main screen.
+    
+    ![image](https://user-images.githubusercontent.com/93928718/177903390-0b166be1-b77d-4e22-abc9-bd7cde2aba59.png)
+    
+    * And when the player crosses the finish line. Also you can choose eset the game or exit to main screen.
+    
+    ![image](https://user-images.githubusercontent.com/93928718/177902443-58ddf6fe-7471-404a-a803-2dc9c6d1016e.png)
+    
   * Game speed increases every 20 seconds. Don't be overconfident.
+ 
 * ### Enemies
 
   Are the cars that appear on the road, which the player must dodge to avoid crashing.
   not to crash.
 
   ![image](https://user-images.githubusercontent.com/93928718/177904440-2024bed3-7282-4f5f-ac57-4d3b07d8e05c.png)
+  
 * ### Animals
 
   There are a variety of animals along the road that must be collected to earn lives.
@@ -71,7 +81,9 @@ The main objective of this game mode is to reach the finish line by dodging all 
 
 ### Free Race
 
-This is an infinite game mode whose mechanics are similar to those of the career mode with the difference that the objective is not to reach the finish line, but to stay alive as long as possible. The player can choose the scenario of his preference to play.![image](https://user-images.githubusercontent.com/93928718/177910856-a4cc32e2-0510-44d1-a871-cb985adaa53c.png)
+This is an infinite game mode whose mechanics are similar to those of the career mode with the difference that the objective is not to reach the finish line, but to stay alive as long as possible. The player can choose the scenario of his preference to play.
+
+![image](https://user-images.githubusercontent.com/93928718/177910856-a4cc32e2-0510-44d1-a871-cb985adaa53c.png)
 
 ### Garage
 
