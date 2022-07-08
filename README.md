@@ -12,7 +12,7 @@ The old known 2D Nintendo game but more "la monda"😎, developed in Java and Pr
 ### Table of Contents
 
 [Features](#Features)
-[Installing](#Installing)
+
 
 ## Features
 
@@ -86,7 +86,8 @@ You can enable or disable music and choose the difficulty of the game.![GameSket
 ---
 
 
-![](assets/20220707_225948_Group_12.png)
+
+![Group 12 (1)](https://user-images.githubusercontent.com/93928718/177915208-e08d89ac-c237-4611-8ada-c9de39f4db63.png)
 
 [ErSantis](https://github.com/ErSantis)
 
