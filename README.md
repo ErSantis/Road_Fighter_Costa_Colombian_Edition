@@ -109,6 +109,6 @@ or clone this repository and run the app class
 
 ![Group 12 (1)](https://user-images.githubusercontent.com/93928718/177915208-e08d89ac-c237-4611-8ada-c9de39f4db63.png)
 
-[ErSantis](https://github.com/ErSantis)
-[Jandres02](https://github.com/Jandres02)
-[joaco-valenverguen](https://github.com/joaco-valenverguen)
+[ErSantis](https://github.com/ErSantis)<br>
+[Jandres02](https://github.com/Jandres02)<br>
+[joaco-valenverguen](https://github.com/joaco-valenverguen)<br>
