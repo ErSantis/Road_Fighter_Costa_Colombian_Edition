@@ -11,7 +11,7 @@ The old known 2D Nintendo game but more "la monda"😎, developed in Java and Pr
 
 ### Table of Contents
 
-[Features](#Features)
+[Features](#Features)<br>
 [Installing](#Installing)
 
 ## Features
