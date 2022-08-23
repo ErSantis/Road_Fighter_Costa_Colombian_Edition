@@ -112,4 +112,4 @@ or clone this repository and run the app class
 
 [ErSantis](https://github.com/ErSantis)<br>
 [Jandres02](https://github.com/Jandres02)<br>
-[joaco-valenverguen](https://github.com/joaco-valenverguen)<br>
+[Lellerena](https://github.com/lellerena)<br>
